@@ -1,4 +1,4 @@
-# REFLECTION.md
+
 
 ## 1. Thuật toán và lý do thực tế
 
